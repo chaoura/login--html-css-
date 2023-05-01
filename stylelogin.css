@@ -1,0 +1,68 @@
+*{
+padding: 0;
+margin: 0;
+
+}
+
+body{
+    background-image: url(image/wave.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #fff;
+}
+form{
+    background-color: #fff;
+margin: auto;
+width: 500px;
+border-radius: 10px;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.USER label{
+display: block;
+padding-top: 30px;
+padding-left: 40px;
+margin-bottom: 10px;
+margin-top: 10px;
+font-size: 1em;
+text-transform: uppercase;
+
+}
+input{
+padding-top: 20px;
+padding-right: 300px;
+margin-left: 30px;
+border: none;
+background-color:rgba(236, 229, 229, 0.863);
+
+
+}
+.remember{
+    margin-top: 30px;
+}
+.remember a {
+    margin-left: 50px;
+    color: gray;
+}
+button{
+    background-color: blue;
+    color: #fff;
+padding: 10px ;
+border-radius: 5px;
+font-weight: bold;
+font-size: 0.8em;
+border: none;
+margin-top: 10px;
+margin-bottom: 10px;
+margin-left: 25px;
+}
+.btn{
+padding-top: 10px;
+padding-bottom: 10px;
+margin-left: 20px;
+margin-right: 40px;
+}
